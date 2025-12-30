@@ -40,7 +40,7 @@ export default function Home() {
               <Heart className="w-6 h-6 text-white" />
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-              Rede Vida
+              AlivioX
             </span>
           </div>
           <Button className="bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-600 hover:to-teal-700 text-white">
@@ -413,7 +413,7 @@ export default function Home() {
                 <Heart className="w-6 h-6 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                Rede Vida
+                AlivioX
               </span>
             </div>
             
